@@ -1,0 +1,5 @@
+train: C:/Users/User/Desktop/dataset/images/train
+val: C:/Users/User/Desktop/dataset/images/val
+
+nc: 2  # 物件類別數 (2個類別: nail 和 finger)
+names: ['nail', 'finger']
